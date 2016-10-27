@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hello guys,
+I'm Jolene from China,I am really into coding!!
